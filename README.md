@@ -31,7 +31,8 @@ The following charts were created to analyze the data :
 
 7. Number of Trips : This simple table breaks up the trips by gender and user type denoting the number of trips belonging to each category.
 
-///LINK TO DASHBAORD///
+[link to dashboard](https://public.tableau.com/profile/radhika3898#!/vizhome/Viz_16150170360700/Dashboard1 "Link to Dashboard")
+
 
 # Summary
 Based on all the above mentioned metrics, Citibikes bike rentals are of big demand in big cities where tourists frequent a lot and where places are close to each other making people prefer biking to taking a cab. Below are 2 additional metrics which would provide more insights to Citibikes management :
