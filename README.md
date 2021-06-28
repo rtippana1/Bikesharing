@@ -1,5 +1,6 @@
 # Bikesharing
 
+[Link to Dashboard](https://public.tableau.com/profile/radhika3898#!/vizhome/Viz_16150170360700/Dashboard1?publish=yes "Link to Dashboard")
 
 ## Overview
 
@@ -31,7 +32,6 @@ The following charts were created to analyze the data :
 
 7. Number of Trips : This simple table breaks up the trips by gender and user type denoting the number of trips belonging to each category.
 
-[link to dashboard](https://public.tableau.com/profile/radhika3898#!/vizhome/Viz_16150170360700/Dashboard1?publish=yes "Link to Dashboard")
 
 
 # Summary
